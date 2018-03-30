@@ -13,10 +13,10 @@
 #about{
     background-color: aqua;
 }
-.square{
-    display: inline-block;
-    width: 50px;
-    height: 50px;
+.skills-square{
+    display:inline-block;
+    width: 100px;
+    height: 100px;
 }
 #square1S{
     background-color: blue;
@@ -29,4 +29,21 @@
 }
 #square4S{
     background-color: violet;
+}
+.portfolio-square{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: 20px;
+    border: 25px solid black;
+    margin: 10px;
+}
+#square1P{
+    background-color: yellow;
+}
+#square2P{
+    background-color: grey;
+}
+#square3P{
+    background-color: orange;
 }
