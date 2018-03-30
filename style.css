@@ -13,3 +13,20 @@
 #about{
     background-color: aqua;
 }
+.square{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+#square1S{
+    background-color: blue;
+}
+#square2S{
+    background-color: red;
+}
+#square3S{
+    background-color: green;
+}
+#square4S{
+    background-color: violet;
+}
